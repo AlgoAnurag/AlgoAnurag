@@ -43,4 +43,6 @@ I'm a passionate developer focused on crafting beautiful and user-friendly web a
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/algoanurag)  🔗
 - [GitHub](https://github.com/AlgoAnurag)  🐙
+
+  ✨ Thank you for visiting my profile! Looking forward to connecting with you!
  
