@@ -30,16 +30,14 @@ I'm a passionate developer focused on crafting beautiful and user-friendly web a
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlgoAnurag&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAnurag&layout=compact&theme=radical)
 
 ---
 
 ## 👾 Fun Animation:
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
----
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/algoanurag)  
