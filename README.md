@@ -35,8 +35,14 @@ I'm a passionate developer focused on crafting beautiful and user-friendly web a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAnurag&layout=compact)
 
-## Animations
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200"/>
+## Progress
+<h3 align="center">Skills</h3>
+<div align="center">
+  <img src="https://progress-bar.dev/75/?title=HTML" />
+  <img src="https://progress-bar.dev/65/?title=CSS" />
+  <img src="https://progress-bar.dev/90/?title=JavaScript" />
+</div>
+
 
 
 ---
