@@ -36,16 +36,6 @@
 
 ---
 
-## 📊 Skills Progress
-
-<h3 align="center">Skills at a Glance 🔥</h3>
-<div align="center">
-  <img src="https://progress-bar.dev/75/?title=HTML&color=orange" width="300" height="30" />
-  <img src="https://progress-bar.dev/65/?title=CSS&color=blue" width="300" height="30" />
-  <img src="https://progress-bar.dev/90/?title=JavaScript&color=yellow" width="300" height="30" />
-</div>
-
----
 
 ## 🤝 Let’s Connect! 💬  
 I'm always eager to chat about software development, **AI breakthroughs**, and **cybersecurity hacks**! Let's connect on **LinkedIn** and collaborate on something fun.  
