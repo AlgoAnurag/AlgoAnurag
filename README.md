@@ -35,8 +35,9 @@ I'm a passionate developer focused on crafting beautiful and user-friendly web a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAnurag&layout=compact)
 
-## 👾 Fun Animation:
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer;Let's+Build+Something+Great+Together!" alt="Typing Animation">
+</h1>
 
 ---
 
