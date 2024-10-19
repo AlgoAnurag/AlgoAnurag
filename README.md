@@ -30,4 +30,4 @@ I'm **Anurag**, a frontend developer with a passion for crafting seamless user e
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/algoanurag)
-- [GitHub](https://github.com/your-AlgoAnurag)
+- [GitHub](https://github.com/AlgoAnurag)
