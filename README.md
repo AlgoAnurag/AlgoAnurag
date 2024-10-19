@@ -43,8 +43,10 @@ I'm a passionate developer focused on crafting beautiful and user-friendly web a
 ## 🤝 Let’s Connect!
 
 I’m always excited to collaborate and discuss software development, AI advancements, and cybersecurity. Don’t hesitate to reach out! 
-
 🔗 [LinkedIn](https://www.linkedin.com/in/algoanurag/) 
+
 ---
+
+
 
 ✨ Thank you for visiting my profile! Looking forward to connecting with you!
