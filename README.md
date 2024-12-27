@@ -65,15 +65,6 @@ Here are some of the **tools** and **technologies** I use to turn ideas into rea
 
 ---
 
-### 📊 **Profile Views**  
-
-👀 Check out how many amazing people have visited my profile:  
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/algoanurag/count.svg?"  />
-</div>
-
----
 
 ## 🤝 **Let’s Connect!** 💬  
 
